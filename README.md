@@ -36,3 +36,5 @@ print(suma)
 ```
 
 Kod programu w tekście `print("Hello")`
+
+![Mój obraz](butterfly.jpeg "Motyl")
